@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-crewai==0.51.1
-crewai-tools==0.4.26
+crewai
+crewai-tools
 requests
 beautifulsoup4
 ddgs
