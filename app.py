@@ -11,6 +11,12 @@ def generate_blog(query: Query):
 
     topic = query.input
 
-    output = topic
+    output = output = f"""
+    Blog Generator Received Topic:
+    {topic}
+
+    (Your CrewAI logic goes here)
+    """
+
 
     return {"output": output}
