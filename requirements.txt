@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+crewai
+crewai-tools
+requests
+beautifulsoup4
+ddgs
+google-generativeai
+nest-asyncio
